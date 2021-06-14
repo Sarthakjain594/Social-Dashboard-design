@@ -101,6 +101,7 @@ div.toggle-components {
 
 label.light {
   background-color: var(--Dark-Grayish-Blue);
+  background-image: none;
 }
 
 .switch-btn {
