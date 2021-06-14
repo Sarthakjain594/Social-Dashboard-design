@@ -92,7 +92,7 @@ div.toggle-components {
 .switch-toggle {
   display: flex;
   align-items: center;
-  background-color: var(--Toggle-dark);
+  background-image: var(--Toggle-dark);
   height: 1.5rem;
   width: 3rem;
   border-radius: 50px;
@@ -173,8 +173,8 @@ div.design-line {
   background-color: var(--Twitter);
 }
 
-.sec3.design-line {
-  background-color: var(--Instagram);
+.sec3 .design-line {
+  background-image: var(--Instagram);
 }
 
 .sec4 .design-line {
